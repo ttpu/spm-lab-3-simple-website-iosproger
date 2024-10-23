@@ -1,7 +1,7 @@
-**Name** : Abdurashidbek 
-**Surname** : Sadullaev
+- **Name** : Abdurashidbek 
+- **Surname** : Sadullaev
 
-**Student ID**: SE13333
+- **Student ID**: SE13333
 
 
 
